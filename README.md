@@ -1,7 +1,8 @@
 
 Hello you !
 
-Defect 3 ++ 
+Defect 3 ++
 
-New Test ! 
+New Test !
 
+Wesch !
